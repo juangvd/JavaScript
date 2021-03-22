@@ -1,0 +1,92 @@
+/*CSS reset settings here*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#envoltura {
+    width: 950px;
+    background-color: #12355b;
+    margin: 5px auto;
+    padding: 15px;
+    height: 620px;
+}
+
+#encabezado {
+    min-height: 60px;
+    background-color: #d72638;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    width: 950px;
+}
+
+h1 {
+    color: #bfd7ea;
+}
+
+.margen {
+    margin-left: 10px;
+    padding: 10px;
+}
+
+#navegacion {
+    min-height: 200px;
+    width: 200px;
+    background-color: #087e8b;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 15px;
+}
+
+.mover {
+    margin-left: 20px;
+    padding: 10px;
+}
+
+#contenedorPrincipal {
+    min-height: 400px;
+    width: 700px;
+    background-color: #0c1821;
+    display: inline-block;
+    margin-left: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.subContendor {
+    display: inline-block;
+    margin: 15px;
+    color: #bfd7ea;
+}
+
+#pieDepagina {
+    min-height: 60px;
+    background-color: #5c6672;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    margin-top: 15px;
+    color: #bfd7ea;
+}
+
+.moverPie {
+    margin-left: 21px;
+    padding: 20px;
+}
+
+a {
+    color: #75f5ec;
+}
+
+.moverLi {
+    margin-left: 21px;
+}
+
+li {
+    color: #bfd7ea;
+}
+
+.colorFuente {
+    font-family: 'Times New Roman', Times, serif;
+    color: #7b92fa;
+}
